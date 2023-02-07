@@ -4,10 +4,10 @@
   bottom: 110px;
 }
 
-.bandana {
-  position: relative;
-  right: 125px;
-  bottom: 62px;
+.absolute .bandana {
+  position: absolute;
+  left: 108px;
+  top: 178px;
 }
 
 .pawprint {
