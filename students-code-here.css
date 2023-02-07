@@ -16,8 +16,9 @@
   top: 45px;
 }
 
-.luna {
-  position: absolute;
+.sticky .luna {
+  position: sticky;
+  left: 0;
 }
 
 .top-hat {
