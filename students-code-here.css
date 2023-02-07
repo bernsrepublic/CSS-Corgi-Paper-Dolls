@@ -3,3 +3,23 @@
   left: 215px;
   bottom: 110px;
 }
+
+.bandana {
+  position: relative;
+  right: 125px;
+  bottom: 62px;
+}
+
+.pawprint {
+  position: fixed;
+  left: 65px;
+  top: 45px;
+}
+
+.luna {
+  position: absolute;
+}
+
+.top-hat {
+  z-index: 1;
+}
